@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, world from Anjali and Good Morning.Creating a new branch for this version of the HelloJava Code !");
+        System.out.println("Hello, world from Anjali and Good Morning.Changes in master branch is made to see wheather it is executable or not !");
     }
 }
 
